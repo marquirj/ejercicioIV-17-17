@@ -33,3 +33,15 @@ Que en valor supondría 690.57 cada año.
 
 ## Usando las tablas de precios de servicios de alojamiento en Internet "clásicos", es decir, que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador de procesador estándar(escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de dkisco duro) en el caso de que la infraestrucutra comprada se usa sólo el 1% o el 10% del tiempo.
 
+
+# Ejercicio 3
+
+## En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, el procesador del móvil?
+
+El modelo de procesador que uso es: 
+
+ Intel(R) Core(TM) i7-5700HQ CPU @ 2.70GHz
+
+Al ejecutar el comando me aparece lo siguiente:
+
+ fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm 3dnowprefetch rdse
