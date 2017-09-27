@@ -39,7 +39,15 @@ Que en valor supondría 690.57 cada año.
  
 Datos del cloud server
 
-     [Cloud Server](https://www.ovh.es/public-cloud/instancias/precios/)
+[Cloud Server](https://www.ovh.es/public-cloud/instancias/precios/)
+
+Contratando los sevidores durante un año el precio sería el siguiente:
+
+Servidor dedicado: 59.99 al mes durante 12 meses = 719.88€ al año
+
+Cloud Server: 20€ al mes durante 12 meses = 240€ al año
+
+
 
 # Ejercicio 3
 
