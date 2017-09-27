@@ -27,12 +27,19 @@ Que en valor supondría 690.57 cada año.
 |  4   |     2762.28      |
 |  5   |     3452.85      |
 |  6   |     4143.42      |
-| 7   |     4236.65      |
+|  7   |     4236.65      |
 
 # Ejercicio 2
 
 ## Usando las tablas de precios de servicios de alojamiento en Internet "clásicos", es decir, que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador de procesador estándar(escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de dkisco duro) en el caso de que la infraestrucutra comprada se usa sólo el 1% o el 10% del tiempo.
 
+ Datos del servidor dedicado que he usado.
+
+     [Servidor Dedicado](https://www.ovh.es/servidores_dedicados/hosting/173host1.xml)
+ 
+Datos del cloud server
+
+     [Cloud Server](https://www.ovh.es/public-cloud/instancias/precios/)
 
 # Ejercicio 3
 
@@ -51,7 +58,9 @@ Al ejecutar el comando me aparece lo siguiente:
 ## 4.1 Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.
 
 marquirj@Juan: $ kvm-ok
+
 INFO: /dev/kvm exists
+
 KVM acceleration can be used
 
 ## 4.2 Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
