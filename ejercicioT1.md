@@ -15,3 +15,20 @@ Se calcula el 25% del precio total sin IVA y se divide entre los 4 años corresp
 
 El valor total de cada año será de  529.5€
 
+Para 7 años viendo la tabla de amortizaciones supondría una amortización del 14.3%.
+
+Que en valor supondría 690.57 cada año.
+
+|Año  | Valor amortizado |
+| 1   |      690.57      |
+| 2   |     1381.14      |
+| 3   |     2071.71      |
+| 4   |     2762.28      |
+| 5   |     3452.85      |
+| 6   |     4143.42      |
+| 7   |     4236.65      |
+
+# Ejercicio 2
+
+## Usando las tablas de precios de servicios de alojamiento en Internet "clásicos", es decir, que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador de procesador estándar(escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de dkisco duro) en el caso de que la infraestrucutra comprada se usa sólo el 1% o el 10% del tiempo.
+
