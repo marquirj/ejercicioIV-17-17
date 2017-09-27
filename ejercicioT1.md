@@ -35,7 +35,7 @@ Que en valor supondría 690.57 cada año.
 
  Datos del servidor dedicado que he usado.
 
-     [Servidor_Dedicado](https://www.ovh.es/servidores_dedicados/hosting/173host1.xml)
+[Servidor_Dedicado](https://www.ovh.es/servidores_dedicados/hosting/173host1.xml)
  
 Datos del cloud server
 
