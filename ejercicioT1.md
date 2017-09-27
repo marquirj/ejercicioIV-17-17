@@ -45,3 +45,22 @@ El modelo de procesador que uso es:
 Al ejecutar el comando me aparece lo siguiente:
 
  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm 3dnowprefetch rdse
+
+# Ejercicio 4
+
+## 4.1 Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.
+
+marquirj@Juan: $ kvm-ok
+INFO: /dev/kvm exists
+KVM acceleration can be used
+
+## 4.2 Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
+
+Tengo instalado VirtualBox y con el gestiono las máquinas virtuales.
+
+
+# Ejercicio 5
+
+## Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.
+
+
