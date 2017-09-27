@@ -19,13 +19,14 @@ Para 7 años viendo la tabla de amortizaciones supondría una amortización del 
 
 Que en valor supondría 690.57 cada año.
 
-|Año  | Valor amortizado |
-| 1   |      690.57      |
-| 2   |     1381.14      |
-| 3   |     2071.71      |
-| 4   |     2762.28      |
-| 5   |     3452.85      |
-| 6   |     4143.42      |
+| Año  | Valor amortizado |
+| ---- | ---------------- |
+|  1   |      690.57      |
+|  2   |     1381.14      |
+|  3   |     2071.71      |
+|  4   |     2762.28      |
+|  5   |     3452.85      |
+|  6   |     4143.42      |
 | 7   |     4236.65      |
 
 # Ejercicio 2
