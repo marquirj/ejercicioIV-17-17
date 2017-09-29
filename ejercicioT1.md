@@ -4,7 +4,7 @@
 
 [Servidor usado](https://www.mercadoactual.es/hpe-hewlett-packard-enterprise-proliant-proliant-dl380-gen10-2-1442583.html)
 
-El precio del servidor es de 5362,65€. 
+El precio del servidor es de 5362,66€. 
 
 El precio del servidor sin IVA para calcular su amortización es de 4236.4€.
 
